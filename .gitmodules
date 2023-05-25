@@ -1,0 +1,6 @@
+[submodule "wysiwim"]
+	path = wysiwim
+	url = https://github.com/wysiwim/wysiwim.git
+[submodule "code2vec"]
+	path = code2vec
+	url = https://github.com/tech-srl/code2vec.git
